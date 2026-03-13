@@ -1325,7 +1325,6 @@ max-width:600px;
 
 .nav-link.active {
   color: #ff6b00;
-  font-weight: 600;
 }
 
 
@@ -1337,4 +1336,5 @@ body{
 
 footer{
   margin-top:auto;
+
 }
